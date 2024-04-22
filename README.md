@@ -1,7 +1,8 @@
 # Space Flight News 
 Welcome to the Space Flight News website, an innovative platform designed to keep you updated on the latest developments and discoveries in space exploration. Powered by React and the Spaceflight News API, our platform offers a seamless experience for enthusiasts and professionals alike.
 
-https://github.com/katherineuchoas/space-flight-news/blob/9f2cc851490aa2e79916a272874a948629e45ef8/src/assets/images/behavior.PNG
+[![print](.src/assets/images/behavior.PNG)](https://github.com/katherineuchoas/space-flight-news/blob/9f2cc851490aa2e79916a272874a948629e45ef8/src/assets/images/behavior.PNG)
+
 
 
 ## 🚀 Technologies
